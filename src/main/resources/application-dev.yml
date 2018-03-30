@@ -1,0 +1,8 @@
+server:
+  port: 8090
+spring:
+  datasource:
+    url: jdbc:postgresql://120.76.73.101:5432/bd_court_case_assistant?charSet=utf-8
+    username: postgres
+    password: gydb@1qaz@WSX
+    driver-class-name: org.postgresql.Driver
